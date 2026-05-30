@@ -45,20 +45,4 @@ Key Takeaways:
 - Data pipeline tools (Airflow, Snowflake, Databricks) are growing in demand
 - Java and GCP remain valuable skills, though not critial to have in today's remote data engineering job market
 
-┌────────────┬──────────────┐
-│   skill    │ demand_count │
-│  varchar   │    int64     │
-├────────────┼──────────────┤
-│ sql        │        29221 │
-│ python     │        28776 │
-│ aws        │        17823 │
-│ azure      │        14143 │
-│ spark      │        12799 │
-│ airflow    │         9996 │
-│ snowflake  │         8639 │
-│ databricks │         8183 │
-│ java       │         7267 │
-│ gcp        │         6446 │
-└────────────┴──────────────┘
-  10 rows         2 columns
 */
